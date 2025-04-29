@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">HELLO WORLD!</ThemedText>
+        <ThemedText type="title">Ai MEU CUZIN!</ThemedText>
         <HelloWave />
       </ThemedView>
     </ParallaxScrollView>
